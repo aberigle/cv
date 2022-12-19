@@ -1,0 +1,225 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alejandro",
+      "surnames": "Berzosa Iglesias",
+      "title": "Director de desarrollo e innovación en paymatico",
+      "description": "",
+      "avatar": {
+        "alt": "avatar_new.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/09/964ae078-f198-43db-b3ff-6e8fbcbab169_avatar_new.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Baracaldo",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://aberigle.com"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aberigle"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/aberigle"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aberigle"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Paymatico"
+        },
+        "roles": [
+          {
+            "name": "Director desarrollo e innovación",
+            "startDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2015-07-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "arin innovation"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2013-01-01",
+            "finishDate": "2015-06-30",
+            "challenges": [
+              {
+                "description": "apps4glass team, Android and HTML5 design and development, mainly for Google Glass, making use of (and implementing) RESTfull APIs.\n\nBackend development for appengine using python. Also backend development using node.js, with the expressjs framework and deploying with docker.\n\nTeach and lead a team of up to five people developing custom applications for our clients.\n\nResearch and develop for new technologies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture - Customer Works"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-05-01",
+            "finishDate": "2012-06-30",
+            "challenges": [
+              {
+                "description": "Application improvement and development, and end user support, working with Access 2003-2007, Visual Basic 6.0, AutoHotKey, HTML, and both for data storage and for management, apart from Access, SQL Server 2005 and MySQL"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/aberigle"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Full-stack Developer",
+        "Product Manager",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
