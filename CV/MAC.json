@@ -37,12 +37,7 @@
         "roles": [
           {
             "name": "Director desarrollo e innovación",
-            "startDate": "2017-04-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
+            "startDate": "2017-04-01"
           }
         ]
       },
@@ -54,12 +49,7 @@
           {
             "name": "Full stack developer",
             "startDate": "2015-07-01",
-            "finishDate": "2017-03-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
+            "finishDate": "2017-03-31"
           }
         ]
       },
@@ -187,26 +177,6 @@
         "skill": {
           "name": "Vue",
           "type": "technology"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Autonomy in learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Creative thinking",
-          "type": "practice"
         }
       }
     ]
