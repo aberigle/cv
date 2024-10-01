@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,18 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/aberigle"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aberigle"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aberigle"
+      },
       {
         "type": "other",
         "URL": "https://aberigle.com"
@@ -93,10 +105,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -139,7 +153,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -199,12 +213,6 @@
       ],
       "contactMails": [
         "a.berzosa.iglesias@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "650427499",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
