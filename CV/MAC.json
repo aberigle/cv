@@ -210,9 +210,6 @@
           "URL": "https://twitter.com/aberigle",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "a.berzosa.iglesias@gmail.com"
       ]
     },
     "preferences": {
@@ -223,7 +220,7 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
