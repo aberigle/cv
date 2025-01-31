@@ -286,12 +286,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Creative thinking",
           "type": "practice"
         }
