@@ -282,6 +282,14 @@
         },
         "finishDate": "2012-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
