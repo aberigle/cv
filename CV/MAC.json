@@ -30,10 +30,6 @@
         "URL": "https://github.com/aberigle"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/aberigle"
-      },
-      {
         "type": "other",
         "URL": "https://aberigle.com"
       }
@@ -314,10 +310,6 @@
         {
           "URL": "https://github.com/aberigle",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/aberigle",
-          "type": "twitter"
         }
       ]
     },
