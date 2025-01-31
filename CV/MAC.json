@@ -286,6 +286,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Creative thinking",
           "type": "practice"
         }
