@@ -9,7 +9,6 @@
       "name": "Alejandro",
       "surnames": "Berzosa Iglesias",
       "title": "Director de desarrollo e innovación en paymatico",
-      "description": "TBD",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/09/964ae078-f198-43db-b3ff-6e8fbcbab169_avatar_new.jpg",
         "alt": "avatar_new.jpg"
@@ -49,7 +48,7 @@
         "roles": [
           {
             "name": "Director desarrollo e innovación",
-            "startDate": "2017-04-01"
+            "startDate": "2017-05-01"
           }
         ]
       },
@@ -61,7 +60,7 @@
           {
             "name": "Full stack developer",
             "startDate": "2015-07-01",
-            "finishDate": "2017-03-31"
+            "finishDate": "2017-03-01"
           }
         ]
       },
@@ -73,10 +72,10 @@
           {
             "name": "Full stack developer",
             "startDate": "2013-01-01",
-            "finishDate": "2015-06-30",
+            "finishDate": "2015-07-01",
             "challenges": [
               {
-                "description": "apps4glass team, Android and HTML5 design and development, mainly for Google Glass, making use of (and implementing) RESTfull APIs.\n\nBackend development for appengine using python. Also backend development using node.js, with the expressjs framework and deploying with docker.\n\nTeach and lead a team of up to five people developing custom applications for our clients.\n\nResearch and develop for new technologies."
+                "description": "apps4glass team, Android and HTML5 design and development, mainly for Google Glass, making use of (and implementing) RESTfull APIs.  Backend development for appengine using python. Also backend development using node.js, with the expressjs framework and deploying with docker.  Teach and lead a team of up to five people developing custom applications for our clients.  Research and develop for new technologies."
               }
             ]
           }
@@ -90,7 +89,7 @@
           {
             "name": "Developer",
             "startDate": "2011-05-01",
-            "finishDate": "2012-06-30",
+            "finishDate": "2012-07-01",
             "challenges": [
               {
                 "description": "Application improvement and development, and end user support, working with Access 2003-2007, Visual Basic 6.0, AutoHotKey, HTML, and both for data storage and for management, apart from Access, SQL Server 2005 and MySQL"
@@ -123,6 +122,12 @@
       },
       {
         "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AngularJS",
           "type": "technology"
         }
@@ -130,6 +135,18 @@
       {
         "skill": {
           "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "BlueTooth",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -148,6 +165,12 @@
       {
         "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
           "type": "technology"
         }
       },
@@ -177,7 +200,19 @@
       },
       {
         "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -189,9 +224,63 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "WebRTC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Engineering",
+        "startDate": "2008-01-01",
+        "institution": {
+          "name": "Escuela universitaria de ingeniería técnica industrial de Bilbao"
+        },
+        "finishDate": "2012-01-01"
       }
     ]
   },
